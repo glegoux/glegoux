@@ -1,6 +1,6 @@
 ### Hi! I'm [Gilles Legoux](https://glegoux.com) 👋🏼
 
-I'm a **Software Engineer at large** based in Paris ☀️🗼. I'm a coding passionate focused currently on **Java/Scala** and **Python** stacks used mainly for data science and engineering, but chosing the right tool to tackle technical problems with another stacks.
+I'm a **Software Engineer at large** based in Paris ☀️🗼. I'm a coding passionate focused currently on **Java <img src="https://glegoux.com/_static/common/img/java.png" alt="Java" valign="middle"/>, Scala <img src="https://glegoux.com/_static/common/img/scala.png" alt="Scala" valign="middle"/>** and **Python** <img src="https://glegoux.com/_static/common/img/python.png" alt="Python" valign="middle"/> stacks used mainly for data science and engineering, but chosing the right tool to tackle technical problems with another stacks.
 
 I enjoy writing technical scientific articles about software engineering <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"/> [https://glegoux.com](https://glegoux.com)
 
