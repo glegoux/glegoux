@@ -5,8 +5,8 @@ I'm a **Software Engineer at large** based in Paris ☀️🗼. I'm a coding pas
 I enjoy writing technical scientific articles about software engineering <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"/> [https://glegoux.com](https://glegoux.com)
 
 <p>
-  <a href="https://twitter.com/intent/follow?screen_name=gilles">
-    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @gilles.legoux on Twitter" title="Follow @gilles.legoux on Twitter">
+  <a href="https://twitter.com/intent/follow?screen_name=gilleslegoux">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @gilleslegoux on Twitter" title="Follow @gilleslegoux on Twitter">
   </a>
 
   <a href="https://github.com/sponsors/glegoux">
