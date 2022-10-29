@@ -4,7 +4,7 @@ I'm a **Software Engineer at large** working for [Criteo](https://www.criteo.com
 
 Furthermore, I enjoy writing technical scientific articles about software engineering <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"/> [https://glegoux.com](https://glegoux.com)
 
-# Stats
-
-![gh stats](https://github-readme-stats.vercel.app/api?username=glegoux&count_private=true&show_icons=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile)
+<div style="display: inline-flex; justify-content: space-between; align-items: center;">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=glegoux&count_private=true&show_icons=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile"/>
+</div>
