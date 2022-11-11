@@ -7,7 +7,7 @@ Furthermore, I enjoy writing technical scientific articles about software engine
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages"/>
 </div>
 
-Last articles:
+Last articles where I contributed:
 
 * [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
-* [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496) (I was the internship mentor)
+* [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496)  
