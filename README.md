@@ -12,3 +12,4 @@ Last articles where I contributed:
 
 * [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
 * [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496)  
+* ...
