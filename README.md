@@ -10,6 +10,8 @@ Furthermore, I enjoy writing technical scientific articles about software engine
 
 Last articles where I contributed:
 
-* [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
-* [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496)  
+* 2022-11 [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
+* 2021-08 [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496)  
+* 2020-11 [Unix timestamp](https://glegoux.com/blog/articles/2020/11/28/unix-timestamp.html)
+* 2019-03 [Kerberos: The Network Authentication Protocol](https://glegoux.com/blog/articles/2019/03/23/kerberos-in-5-minutes.html)
 * ...
