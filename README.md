@@ -8,8 +8,6 @@ Furthermore, I enjoy writing technical scientific articles about software engine
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages"/>
 </div>
 
-Issue: https://github.com/anuraghazra/github-readme-stats/issues/2336
-
 Some articles where I contributed:
 
 * 2022-11 [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
