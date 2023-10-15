@@ -1,4 +1,4 @@
-I'm a **Senior Software Engineer** based in Paris ✨🗼. I'm passionate about software and infrastructure and am currently focusing on <img src="https://glegoux.com/_static/common/img/java.png" alt="Java" valign="middle"/> **Java**, <img src="https://glegoux.com/_static/common/img/scala.png" alt="Scala" valign="middle"/>**Scala**, <img src="https://glegoux.com/_static/common/img/python.png" alt="Python" valign="middle"/> **Python** and <img src="https://glegoux.com/_static/common/img/bash.png" alt="Python" valign="middle"/> **Bourne-Again Shell** languages used mainly for data science and computer engineering. But I prefer to choose the right tool to solve a given technical problem, even using other technical stacks.
+I'm a **Senior Software Engineer** based in Paris ✨🗼. I'm passionate about software and infrastructure and am currently focusing on <img src="https://glegoux.com/_static/common/img/java.png" alt="Java" valign="middle"/> **Java**, <img src="https://glegoux.com/_static/common/img/scala.png" alt="Scala" valign="middle"/>**Scala**, <img src="https://glegoux.com/_static/common/img/python.png" alt="Python" valign="middle"/> **Python** and <img src="https://glegoux.com/_static/common/img/bash.png" alt="Python" valign="middle"/> **Bourne-Again Shell** languages used mainly for data science and computer engineering. However, I prefer to choose the right tool to solve a given technical problem, even using other technical stacks.
 
 Furthermore, I enjoy writing technical, scientific articles about software engineering:  
 <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"/> [https://glegoux.com](https://glegoux.com) or [https://medium.com/@glegoux](https://medium.com/@glegoux).
@@ -8,7 +8,7 @@ Furthermore, I enjoy writing technical, scientific articles about software engin
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages"/>
 </div>
 
-Some articles where I contributed:
+Some articles to which I contributed:
 
 * 2023-04 [History of the Generative AI](https://medium.com/@glegoux/history-of-the-generative-ai-aa1aa7c63f3c)
 * 2023-01 [Learning PySpark with Google Colab](https://medium.com/@glegoux/apache-spark-pyspark-with-google-colab-for-data-science-63478138a63e)
