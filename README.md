@@ -4,8 +4,8 @@ Furthermore, I enjoy writing technical, scientific articles about software engin
 <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"/> [https://glegoux.com](https://glegoux.com) or [https://medium.com/@glegoux](https://medium.com/@glegoux).
 
 <div>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=glegoux&count_private=true&show_icons=true" alt="GitHub contributions"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages"/>
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=glegoux&count_private=true&show_icons=true" alt="GitHub contributions"/>
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages"/>
 </div>
 
 Some articles to which I contributed:
