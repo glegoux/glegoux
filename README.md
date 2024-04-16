@@ -1,4 +1,4 @@
-Hello :wave:, I'm a **Senior Software Engineer** based in Paris ✨🗼. I'm passionate about software through all the R&D facets: research, product, platform, infrastructure, management, and security.  
+Hello :wave:, I'm a **Staff Software Engineer** based in Paris ✨🗼. I'm passionate about software through all the R&D facets: research, product, platform, infrastructure, management, and security.  
 
 Currently I am focusing on <img src="https://glegoux.com/_static/common/img/java.png" alt="Java" valign="middle"/> **Java**, <img src="https://glegoux.com/_static/common/img/scala.png" alt="Scala" valign="middle"/>**Scala**, <img src="https://glegoux.com/_static/common/img/python.png" alt="Python" valign="middle"/> **Python** and <img src="https://glegoux.com/_static/common/img/bash.png" alt="Python" valign="middle"/> **Bourne-Again Shell** languages used mainly for data science and computer engineering. However, I always prefer to choose the right tool to solve a given technical problem, even if it requires using other technical stacks.
 
