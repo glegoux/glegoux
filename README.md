@@ -1,15 +1,15 @@
-Hello :wave:, I'm a **Staff Software Engineer** based in Paris ✨🗼. I'm passionate about software through all the R&D facets: research, product, platform, infrastructure, management, and security.  
+💬 Hello :wave:, I'm a **Staff Software Engineer** at <b class="text-nowrap"><img height="25px" src="https://glegoux.com/_static/common/img/criteo-ai-lab.png" alt="criteo-ai-lab" valign="middle"> Criteo AI Lab</b> based in Paris ✨🗼. I'm passionate about software through all the R&D facets: research, product, platform, infrastructure, management, and security, but mostly about <b class="text-nowrap"><img height="25px" src="https://glegoux.com/_static/common/img/data.png" alt="data" valign="middle"> Data + <img height="25px" src="https://glegoux.com/_static/common/img/ai.png" alt="ai" valign="middle"> AI</b> today.
 
-Currently I am focusing on <img src="https://glegoux.com/_static/common/img/java.png" alt="Java" valign="middle"/> **Java**, <img src="https://glegoux.com/_static/common/img/scala.png" alt="Scala" valign="middle"/>**Scala**, <img src="https://glegoux.com/_static/common/img/python.png" alt="Python" valign="middle"/> **Python** and <img src="https://glegoux.com/_static/common/img/bash.png" alt="Python" valign="middle"/> **Bourne-Again Shell** languages used mainly for data science and computer engineering. However, I always prefer to choose the right tool to solve a given technical problem, even if it requires using other technical stacks.
+Currently I am focusing on <img src="https://glegoux.com/_static/common/img/java.png" alt="Java" valign="middle"> **Java**, <img src="https://glegoux.com/_static/common/img/scala.png" alt="Scala" valign="middle">**Scala**, <img src="https://glegoux.com/_static/common/img/python.png" alt="Python" valign="middle"> **Python** and <img src="https://glegoux.com/_static/common/img/bash.png" alt="Python" valign="middle"> **Bourne-Again Shell** languages used mainly for data science and computer engineering. However, I always prefer to choose the right tool to solve a given technical problem, even if it requires using other technical stacks.
 
 <div>
-  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=glegoux&count_private=true&show_icons=true&hide_rank=true" alt="GitHub contributions"/>
-  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages"/>
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=glegoux&count_private=true&show_icons=true&hide_rank=true" alt="GitHub contributions">
+  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glegoux&layout=compact&count_private=true&hide=css,scss,html,jupyter%20notebook,vim%20script,makefile,ruby,dockerfile" alt="GitHub top languages">
 </div>
 
 Furthermore, I enjoy writing technical and scientific articles about software engineering, data, artificial intelligence, and applied mathematics. Here are some articles to which I contributed:
 
-<div align="center">Personal blog: <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"/> <a href="https://glegoux.com">https://glegoux.com</a></div>
+<div align="center">Personal blog: <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"> <a href="https://glegoux.com">https://glegoux.com</a></div>
 
 * 2023-04 [History of the Generative AI](https://medium.com/@glegoux/history-of-the-generative-ai-aa1aa7c63f3c)
 * 2023-01 [Learning PySpark with Google Colab](https://medium.com/@glegoux/apache-spark-pyspark-with-google-colab-for-data-science-63478138a63e)
