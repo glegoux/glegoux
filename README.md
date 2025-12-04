@@ -11,14 +11,15 @@ Furthermore, I enjoy writing technical and scientific articles about software en
 
 <div align="center">Personal blog: <img src="https://glegoux.com/favicon.ico?v=1" alt="Blog log" valign="middle"> <a href="https://glegoux.com">https://glegoux.com</a></div>
 
-* 2023-04 [History of the Generative AI](https://medium.com/@glegoux/history-of-the-generative-ai-aa1aa7c63f3c)
-* 2023-01 [Learning PySpark with Google Colab](https://medium.com/@glegoux/apache-spark-pyspark-with-google-colab-for-data-science-63478138a63e)
-* 2022-11 [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
-* 2021-08 [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496)
+- 2023-04 [History of the Generative AI](https://medium.com/@glegoux/history-of-the-generative-ai-aa1aa7c63f3c)
+- 2023-01 [Learning PySpark with Google Colab](https://medium.com/@glegoux/apache-spark-pyspark-with-google-colab-for-data-science-63478138a63e)
+- 2022-11 [Apache Spark: ecosystem overview with Apache Hadoop YARN and HDFS](https://medium.com/@glegoux/apache-spark-ecosystem-with-hadoop-apache-yarn-and-hdfs-8e64eeba68c0)
+- 2021-08 [Image-Based ML Techniques To Classify Billions Of E-Commerce Products Into Thousands Of Categories](https://medium.com/criteo-engineering/image-based-ml-techniques-to-classify-billions-of-e-commerce-products-into-thousands-of-categories-6e029fc8d496)
 
 <details>
 <summary>Other tech blog posts</summary>
-* 2020-11 [Unix timestamp](https://glegoux.com/blog/articles/2020/11/28/unix-timestamp.html)
-* 2019-03 [Kerberos: The Network Authentication Protocol](https://glegoux.com/blog/articles/2019/03/23/kerberos-in-5-minutes.html)
-* ...
+
+- 2020-11 [Unix timestamp](https://glegoux.com/blog/articles/2020/11/28/unix-timestamp.html)  
+- 2019-03 [Kerberos: The Network Authentication Protocol](https://glegoux.com/blog/articles/2019/03/23/kerberos-in-5-minutes.html)
+- ...
 </details>
